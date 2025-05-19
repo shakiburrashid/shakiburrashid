@@ -1,4 +1,4 @@
-<h2 align="left">Hi I am Shakibur Rashid, I am full stack web developer. I am from Bangladesh.</h2>
+<h2 align="left">Hi I am Shakibur Rashid, I am full stack web developer.</h2>
 
 ###
 
